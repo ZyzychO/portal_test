@@ -1,0 +1,3 @@
+'/developer-portal/markdown/': 
+  to: '/openapi/reference/overview/'
+  type: 301
